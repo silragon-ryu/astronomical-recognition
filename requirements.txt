@@ -1,0 +1,8 @@
+torch
+torchvision
+fastapi
+uvicorn
+jinja2
+pandas
+matplotlib
+opencv-python
