@@ -1,0 +1,17 @@
+              precision    recall  f1-score   support
+
+       Earth      1.000     1.000     1.000        22
+     Jupiter      1.000     1.000     1.000        22
+    MakeMake      1.000     1.000     1.000        22
+        Mars      1.000     1.000     1.000        23
+     Mercury      1.000     1.000     1.000        23
+        Moon      1.000     1.000     1.000        22
+     Neptune      1.000     1.000     1.000        23
+       Pluto      1.000     1.000     1.000        22
+      Saturn      1.000     1.000     1.000        23
+      Uranus      1.000     1.000     1.000        22
+       Venus      1.000     1.000     1.000        22
+
+    accuracy                          1.000       246
+   macro avg      1.000     1.000     1.000       246
+weighted avg      1.000     1.000     1.000       246
