@@ -2,7 +2,6 @@
 ### A Deep Learning Architecture Comparison Study
 
 
-
 ## ⚔️ Overview
 
 This project is a focused exploration into the effectiveness of **three distinct deep learning paradigms** in the domain of astronomical object classification and localization.
